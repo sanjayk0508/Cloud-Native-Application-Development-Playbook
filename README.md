@@ -1,4 +1,4 @@
-# Cloud-Native Application Development Playbook
+# Cloud-Native Application Development Playbook: CNCF Edition
 
 This playbook provides a comprehensive and practical guide for developing cloud-native applications using CNCF (Cloud Native Computing Foundation) open-source tools and projects. The purpose is to help you build scalable, resilient, and efficient applications that take full advantage of cloud environments. You’ll learn how to design, deploy, scale, and operate applications in the cloud, while leveraging best practices and popular CNCF projects.
 
