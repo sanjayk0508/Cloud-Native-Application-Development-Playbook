@@ -223,5 +223,6 @@ Join the CNCF community by attending events like **KubeCon**, and contribute to 
 ### Resources for Further Learning:
 - **[Certified Kubernetes Administrator (CKA) Exam](https://www.cncf.io/certification/cka/)**
 - **[Kubernetes Up & Running](https://www.oreilly.com/library/view/kubernetes-up/9781491935668/)**
+- **[Kubesimplify - Cloud native to everyone.](https://kubesimplify.com/)**
 
 By following this playbook, you'll be equipped to build, deploy, and manage cloud-native applications using CNCF tools and technologies.
